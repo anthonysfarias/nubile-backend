@@ -1,11 +1,11 @@
-# CANVAS_MAKER_BACKEND
+# Nubilé Backend
 
 Este é o backend do projeto nubile perfumes, uma aplicação que [descreva brevemente o propósito do projeto, por exemplo, "permite criar e gerenciar canvases para colaboração visual"].
 
 ## Estrutura do Projeto
 
 ```plaintext
-CANVAS_MAKER_BACKEND/
+Nubilé Backend/
 ├── node_modules/
 ├── src/
 │   ├── controllers/
